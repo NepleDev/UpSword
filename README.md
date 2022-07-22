@@ -1,8 +1,6 @@
 # UpSword
 UpSword의 웹 버전입니다.
 
-# foo-web-project
-
 ## Commit convention
 ### 커밋 종류
 - feat : 기능 구현
