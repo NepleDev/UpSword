@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/UpSword/static/css/main.073c9b0a.css",
-    "main.js": "/UpSword/static/js/main.8029bc03.js",
+    "main.css": "/UpSword/static/css/main.e6c13ad2.css",
+    "main.js": "/UpSword/static/js/main.b92aa6fc.js",
     "static/js/787.9b64b307.chunk.js": "/UpSword/static/js/787.9b64b307.chunk.js",
-    "static/media/logo.svg": "/UpSword/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/UpSword/index.html",
-    "main.073c9b0a.css.map": "/UpSword/static/css/main.073c9b0a.css.map",
-    "main.8029bc03.js.map": "/UpSword/static/js/main.8029bc03.js.map",
+    "main.e6c13ad2.css.map": "/UpSword/static/css/main.e6c13ad2.css.map",
+    "main.b92aa6fc.js.map": "/UpSword/static/js/main.b92aa6fc.js.map",
     "787.9b64b307.chunk.js.map": "/UpSword/static/js/787.9b64b307.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.8029bc03.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b92aa6fc.js"
   ]
 }
