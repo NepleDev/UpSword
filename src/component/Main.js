@@ -5,7 +5,7 @@ const Main = () => {
     let gameIdx = 0
 
     function changeGame() {
-        gameIdx = gameIdx >= gameNameList.length - 1 ? 0 : gameIdx++;
+        gameIdx = gameIdx >= gameNameList.length - 1 ? 0 : ++gameIdx;
         console.log(gameIdx, gameNameList[gameIdx]);
     }
 
