@@ -12,7 +12,7 @@ const Main = () => {
     return (
         <div>
             <h1>현재 플레이 중인 리듬게임 : {gameNameList[gameIdx]}</h1>
-            <button onclick={changeGame}>안해!</button>
+            <button onClick={changeGame}>안해!</button>
         </div>
     )
 }
