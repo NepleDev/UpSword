@@ -8,14 +8,7 @@ import NotFound from './component/NotFound';
 const App = () => {
 	return (
 		<div className='App'>
-			<BrowserRouter basename={process.env.PUBLIC_URL}>
-				<Header />
-				<Routes>
-					<Route path='/' element={<Main />}></Route>
-					<Route path='/rhythmgame' element={<RhythmGame />}></Route>
-					<Route path='*' element={<NotFound />}></Route>
-				</Routes>
-			</BrowserRouter>
+			<Main />
 		</div>
 	);
 }
